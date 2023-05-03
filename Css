@@ -1,0 +1,87 @@
+.bg-container {
+    background-image: url("https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141353.jpg?w=996&t=st=1683109036~exp=1683109636~hmac=b93eb210ac0b8daf5fceb658b1395695d9097fe81c54059dff7d6620573247d3");
+    background-size: cover;
+    height: 40vh;
+}
+
+.name-container {
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 80px;
+    background-color: #ff9999;
+}
+
+.main-heading {
+    color: #ffffff;
+    font-size: 20px;
+    padding: 2px;
+    font-family: "Roboto";
+}
+
+.para {
+    color: #ffffff;
+    font-size: 12px;
+    padding: 2px;
+    font-family: "Roboto";
+}
+
+.second-container {
+    background-image: linear-gradient(to right, orange, pink);
+    height: 10vh;
+    margin-bottom: 5px;
+}
+
+.below-container {
+    height: 70vh;
+    background-image: linear-gradient(to right, orange, #ff9999);
+}
+
+.below-heading {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: "Roboto";
+}
+
+.image {
+    width: 20vw;
+    height: 20vh;
+    margin: 30px;
+    border-top-right-radius: 20px;
+}
+
+.name {
+    background-color: #ffffff;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    height: 30vh;
+    width: 30vw;
+    margin-left: 5px;
+}
+
+.name1 {
+    background-color: #ffffff;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    height: 30vh;
+    width: 30vw;
+    margin-left: 10px;
+}
+
+.name2 {
+    background-color: #ffffff;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 40px;
+    height: 30vh;
+    width: 30vw;
+    margin-left: 10px;
+}
+
+.button {
+    text-align: center;
+    border-radius: 10px;
+    border-width: 0px;
+    background-color: #ffffff;
+    font-family: "Roboto";
+    width: 20vw;
+    margin-top: 80px;
+}
